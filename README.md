@@ -1,4 +1,4 @@
-# 🤖 Automação de Cadastro de Produtos
+# 🤖 Automação cadastramento de Produtos
 
 Projeto desenvolvido em Python para automatizar a leitura de uma base de dados de produtos e realizar o cadastro individual de cada item em um sistema web. O objetivo é otimizar tarefas repetitivas de digitação manual, reduzindo o tempo de execução e prevenindo erros operacionais.
 
