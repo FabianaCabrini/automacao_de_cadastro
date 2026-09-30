@@ -22,6 +22,7 @@ Em seguida, instale as dependências executando o comando abaixo no terminal do 
 ```bash
 pip install pyautogui pandas openpyxl
 ```
+---
 ## Como Configurar e Executar 
 
 #1. Configurar Credenciais e Arquivos
@@ -53,12 +54,12 @@ No PyCharm ou no seu terminal, execute o comando:
 Bash
 python main.py
 ```
-
+---
 ## Fluxo e Comportamento da Execução
 
-1. Ao iniciar o script, o computador executará as seguintes etapas de forma automática:
+ Ao iniciar o script, o computador executará as seguintes etapas de forma automática:
 
-Abertura do Navegador: O script pressiona a tecla Windows, digita "chrome" e abre o navegador.
+1. Abertura do Navegador: O script pressiona a tecla Windows, digita "chrome" e abre o navegador.
 
 2. Navegação e Autenticação: Acessa a URL do sistema, preenche o e-mail e a senha, e realiza o login.
 
