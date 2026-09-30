@@ -54,7 +54,7 @@ No PyCharm ou no seu terminal, execute o comando:
 Bash
 python main.py
 ```
----
+
 ## Fluxo e Comportamento da Execução
 
  Ao iniciar o script, o computador executará as seguintes etapas de forma automática:
