@@ -25,7 +25,7 @@ pip install pyautogui pandas openpyxl
 ---
 ## Como Configurar e Executar 
 
-#1. Configurar Credenciais e Arquivos
+**1. Configurar Credenciais e Arquivos
 
 1.Certifique-se de que o arquivo produtos.csv esteja localizado na raiz da pasta do projeto.
 2.Abra o arquivo principal (main.py) e insira suas credenciais de acesso nas variáveis:
